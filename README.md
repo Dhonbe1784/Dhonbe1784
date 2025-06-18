@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a few projects, some are out now.
+- 🌱 I’m currently learning cybersecurity and python.
+- 👯 I’m looking to collaborate on bug bounties, animating, photography and programming
+- 🤔 I’m looking for help with some nooks and Crannies
+- 💬 Ask me about how ai started my journey
+- 📫 How to reach me at dhonbe1784@gmail.com
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I am not good at maths.
+- 🔭 Hobbies: Programming, photography, VFX, animating, IT.
